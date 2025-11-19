@@ -1,15 +1,15 @@
 {
   "ads": {
-    "enable": false,
+    "enable": true,
     "useTestIds": true,
     "disableBanner": false,
     "disableIap": false
   },
   "featureFlags": {
-    "unlockedGames": [],
-    "disabledGames": [
-      "memory"
-    ]
+    "unlockedGames": [
+      "time-attack"
+    ],
+    "disabledGames": []
   },
   "uiTheme": {
     "loadingScreen": "cardFlip",
