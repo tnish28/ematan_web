@@ -13,7 +13,7 @@
   },
   "uiTheme": {
     "loadingScreen": "cardFlip",
-    "bgmTrack": "bgm_c",
+    "bgmTrack": "bgm_a",
     "bgmDefaultVolume": 0.15
   },
   "appStatus": {
