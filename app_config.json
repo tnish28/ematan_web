@@ -6,9 +6,7 @@
     "disableIap": false
   },
   "featureFlags": {
-    "unlockedGames": [
-      "time-attack"
-    ],
+    "unlockedGames": [],
     "disabledGames": []
   },
   "uiTheme": {
