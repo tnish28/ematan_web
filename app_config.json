@@ -1,0 +1,29 @@
+{
+  "ads": {
+    "enable": false,
+    "useTestIds": true,
+    "disableBanner": false,
+    "disableIap": false
+  },
+  "featureFlags": {
+    "unlockedGames": [],
+    "disabledGames": []
+  },
+  "uiTheme": {
+    "loadingScreen": "cardFlip",
+    "bgmTrack": "bgm_c",
+    "bgmDefaultVolume": 0.15
+  },
+  "appStatus": {
+    "minVersion": "1.0.0",
+    "maintenance": {
+      "enabled": false,
+      "message": ""
+    }
+  },
+  "reminders": {
+    "backupEnabled": true,
+    "intervalDays": 14,
+    "forceAfterDays": 45
+  }
+}
