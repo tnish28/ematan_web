@@ -37,6 +37,7 @@
       {
         "id": "christmas2024",
         "title": "クリスマス特集",
+        "published": false,
         "badgeText": "開催中",
         "ctaLabel": "特集をみる",
         "startAt": "2024-12-01T00:00:00+09:00",
