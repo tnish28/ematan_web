@@ -25,5 +25,24 @@
     "backupEnabled": true,
     "intervalDays": 14,
     "forceAfterDays": 45
+  },
+  "events": {
+    "menu": {
+      "visible": true,
+      "label": "イベント",
+      "badgeText": "12/1〜12/26",
+      "description": "季節イベント開催予定！"
+    },
+    "entries": [
+      {
+        "id": "christmas2024",
+        "title": "クリスマス特集",
+        "badgeText": "開催中",
+        "ctaLabel": "特集をみる",
+        "startAt": "2024-12-01T00:00:00+09:00",
+        "endAt": "2024-12-27T00:00:00+09:00",
+        "description": "クリスマスにちなんだ単語セット。"
+      }
+    ]
   }
 }
