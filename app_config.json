@@ -48,6 +48,8 @@
         "id": "event1",
         "title": "新規イベント",
         "published": true,
+        "badgeText": "開催",
+        "ctaLabel": "こちらから",
         "startAt": "2025-11-01T21:52:00+09:00",
         "endAt": "2025-11-30T21:52:00+09:00",
         "description": "テストイベント"
