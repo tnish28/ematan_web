@@ -1,0 +1,59 @@
+{
+  "ads": {
+    "enable": true,
+    "useTestIds": true,
+    "disableBanner": false,
+    "disableIap": false
+  },
+  "featureFlags": {
+    "unlockedGames": [],
+    "disabledGames": []
+  },
+  "uiTheme": {
+    "loadingScreen": "cardFlip",
+    "bgmTrack": "bgm_a",
+    "bgmDefaultVolume": 0.15
+  },
+  "appStatus": {
+    "minVersion": "1.0.0",
+    "maintenance": {
+      "enabled": false,
+      "message": ""
+    }
+  },
+  "reminders": {
+    "backupEnabled": true,
+    "intervalDays": 14,
+    "forceAfterDays": 45
+  },
+  "events": {
+    "menu": {
+      "visible": false,
+      "label": "イベント",
+      "badgeText": "12/1〜12/26",
+      "description": "季節イベント開催予定！"
+    },
+    "entries": [
+      {
+        "id": "christmas2024",
+        "title": "クリスマス特集",
+        "published": false,
+        "description": "クリスマスにちなんだ単語セット。",
+        "badgeText": "開催中",
+        "ctaLabel": "特集をみる",
+        "startAt": "2024-12-01T00:00:00+09:00",
+        "endAt": "2025-12-27T00:00:00+09:00"
+      },
+      {
+        "id": "event1",
+        "title": "新規イベント",
+        "published": false,
+        "description": "テストイベント",
+        "badgeText": "開催",
+        "ctaLabel": "こちらから",
+        "startAt": "2024-11-04T21:52:00+09:00",
+        "endAt": "2025-12-27T00:00:00+09:00"
+      }
+    ]
+  }
+}
