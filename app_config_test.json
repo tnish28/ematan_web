@@ -1,7 +1,7 @@
 {
   "ads": {
     "enable": true,
-    "useTestIds": true,
+    "useTestIds": false,
     "disableBanner": false,
     "disableIap": true
   },
