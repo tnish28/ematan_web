@@ -3,7 +3,7 @@
     "enable": true,
     "useTestIds": false,
     "disableBanner": false,
-    "disableIap": false
+    "disableIap": true
   },
   "featureFlags": {
     "unlockedGames": [],
