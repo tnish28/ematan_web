@@ -11,12 +11,12 @@
       "isPublished": true
     },
     {
-      "id": "announcement-20251119155457",
-      "title": "テスト",
-      "content": "これはテストです。\n\n# 見出しH1\n## 見出しH2\n### 見出しH3\n**太字**\n*斜体*\n++下線++\n\n\n~~取り消し線~~\n\n\n- 箇条書き\n- 箇条書き\n1. 番号リスト\n2. 番号リスト\n\n---\n[リンク](http://yahoo.co.jp/)",
-      "publishedAt": "2025-11-19",
-      "isPublished": false,
-      "priority": "normal",
+      "id": "announcement-20251206233521",
+      "title": "テストありがとうございます。",
+      "content": "## テスターの皆様\n\nベータ版テストにご協力いただきありがとうございます。\n本番審査に入りますので近日中にテストは終了させていただきます。\nもしフィードバックをいただけるようでしたら是非お願いいたします。\n\n\nストアにて正式に公開されましたら各種SNSでお知らせしますので、良ければご利用ください。",
+      "publishedAt": "2025-12-06",
+      "isPublished": true,
+      "priority": "important",
       "imageUrl": "",
       "linkUrl": ""
     }
