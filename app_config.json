@@ -1,7 +1,7 @@
 {
   "ads": {
-    "enable": false,
-    "useTestIds": true,
+    "enable": true,
+    "useTestIds": false,
     "disableBanner": false,
     "disableIap": false
   },
@@ -38,21 +38,21 @@
         "id": "christmas2024",
         "title": "クリスマス特集",
         "published": false,
+        "description": "クリスマスにちなんだ単語セット。",
         "badgeText": "開催中",
         "ctaLabel": "特集をみる",
         "startAt": "2024-12-01T00:00:00+09:00",
-        "endAt": "2025-12-27T00:00:00+09:00",
-        "description": "クリスマスにちなんだ単語セット。"
+        "endAt": "2025-12-27T00:00:00+09:00"
       },
       {
         "id": "event1",
         "title": "新規イベント",
         "published": false,
+        "description": "テストイベント",
         "badgeText": "開催",
         "ctaLabel": "こちらから",
         "startAt": "2024-11-04T21:52:00+09:00",
-        "endAt": "2025-12-27T00:00:00+09:00",
-        "description": "テストイベント"
+        "endAt": "2025-12-27T00:00:00+09:00"
       }
     ]
   }
