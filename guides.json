@@ -1,0 +1,44 @@
+{
+  "guides": [
+    {
+      "id": "basic-flow",
+      "title": "基本の進め方",
+      "description": "好きなカテゴリから学習を始めて、復習タブで定着させます。",
+      "imageUrls": [
+        "https://tnish28.github.io/ematan_web/assets/guides/進め方の基本.png"
+      ],
+      "order": 1,
+      "isPublished": true
+    },
+    {
+      "id": "favorites",
+      "title": "お気に入りの使い方",
+      "description": "覚えたい単語を⭐︎で保存し、まとめて復習できます。",
+      "imageUrls": [
+        "https://tnish28.github.io/ematan_web/assets/guides/進め方の基本.png"
+      ],
+      "order": 2,
+      "isPublished": false
+    },
+    {
+      "id": "playlist",
+      "title": "プレイリストの使い方",
+      "description": "学習したい単語を並べて自分だけのセットを作成できます。",
+      "imageUrls": [
+        "https://tnish28.github.io/ematan_web/assets/guides/進め方の基本.png"
+      ],
+      "order": 3,
+      "isPublished": false
+    },
+    {
+      "id": "sound-settings",
+      "title": "サウンド設定",
+      "description": "BGMと効果音の音量は設定画面から調整できます。",
+      "imageUrls": [
+        "https://tnish28.github.io/ematan_web/assets/guides/進め方の基本.png"
+      ],
+      "order": 4,
+      "isPublished": false
+    }
+  ]
+}
