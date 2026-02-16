@@ -3,9 +3,9 @@
     {
       "id": "basic-flow",
       "title": "基本の進め方",
-      "description": "好きなカテゴリから学習を始めて、復習タブで定着させます。",
+      "description": "学習の基本は2ステップ！未学習単語の覚え度合いを評価し、覚え度合いが低いものから集中的に学ぶのが重要です。",
       "imageUrls": [
-        "https://tnish28.github.io/ematan_web/assets/guides/進め方の基本.png"
+        "https://tnish28.github.io/ematan_web/assets/guides/進め方の基本1.png"
       ],
       "order": 1,
       "isPublished": true
