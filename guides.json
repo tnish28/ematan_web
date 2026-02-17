@@ -4,6 +4,10 @@
       "id": "basic-flow",
       "title": "基本の進め方",
       "description": "学習の基本は2ステップ！未学習単語の覚え度合いを評価し、覚え度合いが低いものから集中的に学ぶのが重要です。",
+      "tags": [
+        "学習の進め方",
+        "テスト"
+      ],
       "imageUrls": [
         "https://tnish28.github.io/ematan_web/assets/guides/進め方の基本1.png",
         "https://tnish28.github.io/ematan_web/assets/guides/進め方の基本2.png"
@@ -15,6 +19,9 @@
       "id": "favorites",
       "title": "お気に入りの使い方",
       "description": "覚えたい単語を⭐︎で保存し、まとめて復習できます。",
+      "tags": [
+        "単語帳"
+      ],
       "imageUrls": [
         "https://tnish28.github.io/ematan_web/assets/guides/進め方の基本.png"
       ],
@@ -25,6 +32,9 @@
       "id": "playlist",
       "title": "プレイリストの使い方",
       "description": "学習したい単語を並べて自分だけのセットを作成できます。",
+      "tags": [
+        "単語帳"
+      ],
       "imageUrls": [
         "https://tnish28.github.io/ematan_web/assets/guides/進め方の基本.png"
       ],
