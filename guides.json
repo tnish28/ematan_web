@@ -5,8 +5,7 @@
       "title": "進め方の基本",
       "description": "学習の基本は2ステップ！未学習単語の覚え度合いを評価し、覚え度合いが低いものから集中的に学ぶのが重要です。",
       "tags": [
-        "学習の進め方",
-        "テスト"
+        "学習の進め方"
       ],
       "imageUrls": [
         "https://tnish28.github.io/ematan_web/assets/guides/進め方の基本1.png",
@@ -27,7 +26,7 @@
       "imageUrls": [
         "https://tnish28.github.io/ematan_web/assets/guides/進め方の基本.png"
       ],
-      "order": 2,
+      "order": 4,
       "isPublished": false
     },
     {
@@ -42,6 +41,22 @@
       ],
       "order": 3,
       "isPublished": false
+    },
+    {
+      "id": "guide-20260220231346748",
+      "title": "操作シナリオ：学習セットを作成しスタートする",
+      "description": "カテゴリ選択→レベル選択→評価フィルタ→枚数選択→モード選択をし単語帳をスタートすることができます。",
+      "tags": [
+        "単語帳"
+      ],
+      "imageUrls": [
+        "https://tnish28.github.io/ematan_web/assets/guides/操作説明：単語帳1.png",
+        "https://tnish28.github.io/ematan_web/assets/guides/操作説明：単語帳2.png",
+        "https://tnish28.github.io/ematan_web/assets/guides/操作説明：単語帳3.png",
+        "https://tnish28.github.io/ematan_web/assets/guides/操作説明：単語帳4.png"
+      ],
+      "order": 2,
+      "isPublished": true
     }
   ]
 }
