@@ -57,6 +57,24 @@
       ],
       "order": 2,
       "isPublished": true
+    },
+    {
+      "id": "guide-20260226000320621",
+      "title": "操作シナリオ：評価モードを進める",
+      "description": "評価モードではあらかじめ指定の枚数分だけ順番に画像が表示されます。表示された画像について、覚え度合いを評価していきましょう。",
+      "tags": [
+        "単語帳",
+        "評価モード"
+      ],
+      "imageUrls": [
+        "https://tnish28.github.io/ematan_web/assets/guides/操作説明：評価モードを進める1.png",
+        "https://tnish28.github.io/ematan_web/assets/guides/操作説明：評価モードを進める2.png",
+        "https://tnish28.github.io/ematan_web/assets/guides/操作説明：評価モードを進める3.png",
+        "https://tnish28.github.io/ematan_web/assets/guides/操作説明：評価モードを進める4.png",
+        "https://tnish28.github.io/ematan_web/assets/guides/操作説明：評価モードを進める5.png"
+      ],
+      "order": 3,
+      "isPublished": true
     }
   ]
 }
