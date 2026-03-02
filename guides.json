@@ -21,7 +21,8 @@
       "title": "操作シナリオ：学習セットを作成しスタートする",
       "description": "カテゴリ選択→レベル選択→評価フィルタ→枚数選択→モード選択をし単語帳をスタートすることができます。",
       "tags": [
-        "単語帳"
+        "単語帳",
+        "操作説明"
       ],
       "imageUrls": [
         "https://tnish28.github.io/ematan_web/assets/guides/操作説明：単語帳1.png",
@@ -38,7 +39,8 @@
       "description": "評価モードではあらかじめ指定の枚数分だけ順番に画像が表示されます。表示された画像について、覚え度合いを評価していきましょう。",
       "tags": [
         "単語帳",
-        "評価モード"
+        "評価モード",
+        "操作説明"
       ],
       "imageUrls": [
         "https://tnish28.github.io/ematan_web/assets/guides/操作説明：評価モードを進める1.png",
@@ -56,7 +58,8 @@
       "description": "自動再生モードでは自動で画像が切り替わっていきます。ハンズフリーで学習を進めることが可能なので、「ながら学習」に便利です。",
       "tags": [
         "単語帳",
-        "自動再生モード"
+        "自動再生モード",
+        "操作説明"
       ],
       "imageUrls": [
         "https://tnish28.github.io/ematan_web/assets/guides/操作説明：自動再生モードを進める1.png",
@@ -67,6 +70,23 @@
         "https://tnish28.github.io/ematan_web/assets/guides/操作説明：自動再生モードを進める6.png"
       ],
       "order": 4,
+      "isPublished": true
+    },
+    {
+      "id": "guide-20260302125852259",
+      "title": "操作シナリオ：お気に入りを活用する",
+      "description": "学習中に気になった単語をお気に入りに登録しておくことで後から見返すのに便利です。",
+      "tags": [
+        "操作説明"
+      ],
+      "imageUrls": [
+        "https://tnish28.github.io/ematan_web/assets/guides/操作説明：お気に入り1.png",
+        "https://tnish28.github.io/ematan_web/assets/guides/操作説明：お気に入り2.png",
+        "https://tnish28.github.io/ematan_web/assets/guides/操作説明：お気に入り3.png",
+        "https://tnish28.github.io/ematan_web/assets/guides/操作説明：お気に入り4.png",
+        "https://tnish28.github.io/ematan_web/assets/guides/操作説明：お気に入り5.png"
+      ],
+      "order": 5,
       "isPublished": true
     }
   ]
