@@ -88,6 +88,22 @@
       ],
       "order": 5,
       "isPublished": true
+    },
+    {
+      "id": "guide-20260310234845803",
+      "title": "操作説明：メインメニュー",
+      "description": "",
+      "tags": [
+        "操作説明"
+      ],
+      "imageUrls": [
+        "https://tnish28.github.io/ematan_web/assets/guides/操作説明：メインメニュー1.png",
+        "https://tnish28.github.io/ematan_web/assets/guides/操作説明：メインメニュー2.png",
+        "https://tnish28.github.io/ematan_web/assets/guides/操作説明：メインメニュー3.png",
+        "https://tnish28.github.io/ematan_web/assets/guides/操作説明：メインメニュー4.png"
+      ],
+      "order": 6,
+      "isPublished": true
     }
   ]
 }
