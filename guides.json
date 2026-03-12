@@ -17,8 +17,24 @@
       "isPublished": true
     },
     {
+      "id": "guide-20260310234845803",
+      "title": "メインメニュー",
+      "description": "すべての機能はメインメニューから移動できます。",
+      "tags": [
+        "操作説明"
+      ],
+      "imageUrls": [
+        "https://tnish28.github.io/ematan_web/assets/guides/操作説明：メインメニュー1.png",
+        "https://tnish28.github.io/ematan_web/assets/guides/操作説明：メインメニュー2.png",
+        "https://tnish28.github.io/ematan_web/assets/guides/操作説明：メインメニュー3.png",
+        "https://tnish28.github.io/ematan_web/assets/guides/操作説明：メインメニュー4.png"
+      ],
+      "order": 2,
+      "isPublished": true
+    },
+    {
       "id": "guide-20260220231346748",
-      "title": "操作シナリオ：学習セットを作成しスタートする",
+      "title": "学習セットを作成しスタートする",
       "description": "カテゴリ選択→レベル選択→評価フィルタ→枚数選択→モード選択をし単語帳をスタートすることができます。",
       "tags": [
         "単語帳",
@@ -30,12 +46,12 @@
         "https://tnish28.github.io/ematan_web/assets/guides/操作説明：単語帳3.png",
         "https://tnish28.github.io/ematan_web/assets/guides/操作説明：単語帳4.png"
       ],
-      "order": 2,
+      "order": 3,
       "isPublished": true
     },
     {
       "id": "guide-20260226000320621",
-      "title": "操作シナリオ：評価モードを進める",
+      "title": "評価モードを進める",
       "description": "評価モードではあらかじめ指定の枚数分だけ順番に画像が表示されます。表示された画像について、覚え度合いを評価していきましょう。",
       "tags": [
         "単語帳",
@@ -49,12 +65,12 @@
         "https://tnish28.github.io/ematan_web/assets/guides/操作説明：評価モードを進める4.png",
         "https://tnish28.github.io/ematan_web/assets/guides/操作説明：評価モードを進める5.png"
       ],
-      "order": 3,
+      "order": 4,
       "isPublished": true
     },
     {
       "id": "guide-20260302121208364",
-      "title": "操作シナリオ：自動再生モードを進める",
+      "title": "自動再生モードを進める",
       "description": "自動再生モードでは自動で画像が切り替わっていきます。ハンズフリーで学習を進めることが可能なので、「ながら学習」に便利です。",
       "tags": [
         "単語帳",
@@ -69,12 +85,12 @@
         "https://tnish28.github.io/ematan_web/assets/guides/操作説明：自動再生モードを進める5.png",
         "https://tnish28.github.io/ematan_web/assets/guides/操作説明：自動再生モードを進める6.png"
       ],
-      "order": 4,
+      "order": 5,
       "isPublished": true
     },
     {
       "id": "guide-20260302125852259",
-      "title": "操作シナリオ：お気に入りを活用する",
+      "title": "お気に入りを活用する",
       "description": "学習中に気になった単語をお気に入りに登録しておくことで後から見返すのに便利です。",
       "tags": [
         "操作説明"
@@ -86,28 +102,12 @@
         "https://tnish28.github.io/ematan_web/assets/guides/操作説明：お気に入り4.png",
         "https://tnish28.github.io/ematan_web/assets/guides/操作説明：お気に入り5.png"
       ],
-      "order": 5,
-      "isPublished": true
-    },
-    {
-      "id": "guide-20260310234845803",
-      "title": "操作説明：メインメニュー",
-      "description": "",
-      "tags": [
-        "操作説明"
-      ],
-      "imageUrls": [
-        "https://tnish28.github.io/ematan_web/assets/guides/操作説明：メインメニュー1.png",
-        "https://tnish28.github.io/ematan_web/assets/guides/操作説明：メインメニュー2.png",
-        "https://tnish28.github.io/ematan_web/assets/guides/操作説明：メインメニュー3.png",
-        "https://tnish28.github.io/ematan_web/assets/guides/操作説明：メインメニュー4.png"
-      ],
       "order": 6,
       "isPublished": true
     },
     {
       "id": "guide-20260312223126033",
-      "title": "操作説明：プレイリストを活用する",
+      "title": "プレイリストを活用する",
       "description": "「今週中に学習する単語」「特に苦手な単語」など好みの用途に合わせて学習セットを作成できます。",
       "tags": [
         "操作説明"
