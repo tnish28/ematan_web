@@ -104,6 +104,26 @@
       ],
       "order": 6,
       "isPublished": true
+    },
+    {
+      "id": "guide-20260312223126033",
+      "title": "操作説明：プレイリストを活用する",
+      "description": "「今週中に学習する単語」「特に苦手な単語」など好みの用途に合わせて学習セットを作成できます。",
+      "tags": [
+        "操作説明"
+      ],
+      "imageUrls": [
+        "https://tnish28.github.io/ematan_web/assets/guides/操作説明：プレイリスト1.png",
+        "https://tnish28.github.io/ematan_web/assets/guides/操作説明：プレイリスト2.png",
+        "https://tnish28.github.io/ematan_web/assets/guides/操作説明：プレイリスト3.png",
+        "https://tnish28.github.io/ematan_web/assets/guides/操作説明：プレイリスト4.png",
+        "https://tnish28.github.io/ematan_web/assets/guides/操作説明：プレイリスト5.png",
+        "https://tnish28.github.io/ematan_web/assets/guides/操作説明：プレイリスト6.png",
+        "https://tnish28.github.io/ematan_web/assets/guides/操作説明：プレイリスト7.png",
+        "https://tnish28.github.io/ematan_web/assets/guides/操作説明：プレイリスト8.png"
+      ],
+      "order": 7,
+      "isPublished": true
     }
   ]
 }
