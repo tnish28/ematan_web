@@ -8,10 +8,10 @@
         "学習の進め方"
       ],
       "imageUrls": [
-        "https://tnish28.github.io/ematan_web/assets/guides/進め方の基本1.png",
-        "https://tnish28.github.io/ematan_web/assets/guides/進め方の基本2.png",
-        "https://tnish28.github.io/ematan_web/assets/guides/進め方の基本3.png",
-        "https://tnish28.github.io/ematan_web/assets/guides/進め方の基本4.png"
+        "https://tnish28.github.io/ematan_web/assets/guides/進め方の基本_1.png",
+        "https://tnish28.github.io/ematan_web/assets/guides/進め方の基本_2.png",
+        "https://tnish28.github.io/ematan_web/assets/guides/進め方の基本_3.png",
+        "https://tnish28.github.io/ematan_web/assets/guides/進め方の基本_4.png"
       ],
       "order": 1,
       "isPublished": true
@@ -24,10 +24,10 @@
         "操作説明"
       ],
       "imageUrls": [
-        "https://tnish28.github.io/ematan_web/assets/guides/操作説明：メインメニュー1.png",
-        "https://tnish28.github.io/ematan_web/assets/guides/操作説明：メインメニュー2.png",
-        "https://tnish28.github.io/ematan_web/assets/guides/操作説明：メインメニュー3.png",
-        "https://tnish28.github.io/ematan_web/assets/guides/操作説明：メインメニュー4.png"
+        "https://tnish28.github.io/ematan_web/assets/guides/メインメニュー_1.png",
+        "https://tnish28.github.io/ematan_web/assets/guides/メインメニュー_2.png",
+        "https://tnish28.github.io/ematan_web/assets/guides/メインメニュー_3.png",
+        "https://tnish28.github.io/ematan_web/assets/guides/メインメニュー_4.png"
       ],
       "order": 2,
       "isPublished": true
@@ -41,10 +41,10 @@
         "操作説明"
       ],
       "imageUrls": [
-        "https://tnish28.github.io/ematan_web/assets/guides/操作説明：単語帳1.png",
-        "https://tnish28.github.io/ematan_web/assets/guides/操作説明：単語帳2.png",
-        "https://tnish28.github.io/ematan_web/assets/guides/操作説明：単語帳3.png",
-        "https://tnish28.github.io/ematan_web/assets/guides/操作説明：単語帳4.png"
+        "https://tnish28.github.io/ematan_web/assets/guides/学習セットを作成しスタートする_1.png",
+        "https://tnish28.github.io/ematan_web/assets/guides/学習セットを作成しスタートする_2.png",
+        "https://tnish28.github.io/ematan_web/assets/guides/学習セットを作成しスタートする_3.png",
+        "https://tnish28.github.io/ematan_web/assets/guides/学習セットを作成しスタートする_4.png"
       ],
       "order": 3,
       "isPublished": true
@@ -59,11 +59,12 @@
         "操作説明"
       ],
       "imageUrls": [
-        "https://tnish28.github.io/ematan_web/assets/guides/操作説明：評価モードを進める1.png",
-        "https://tnish28.github.io/ematan_web/assets/guides/操作説明：評価モードを進める2.png",
-        "https://tnish28.github.io/ematan_web/assets/guides/操作説明：評価モードを進める3.png",
-        "https://tnish28.github.io/ematan_web/assets/guides/操作説明：評価モードを進める4.png",
-        "https://tnish28.github.io/ematan_web/assets/guides/操作説明：評価モードを進める5.png"
+        "https://tnish28.github.io/ematan_web/assets/guides/評価モードを進める_1.png",
+        "https://tnish28.github.io/ematan_web/assets/guides/評価モードを進める_2.png",
+        "https://tnish28.github.io/ematan_web/assets/guides/評価モードを進める_3.png",
+        "https://tnish28.github.io/ematan_web/assets/guides/評価モードを進める_4.png",
+        "https://tnish28.github.io/ematan_web/assets/guides/評価モードを進める_5.png",
+        "https://tnish28.github.io/ematan_web/assets/guides/評価モードを進める_6.png"
       ],
       "order": 4,
       "isPublished": true
@@ -78,12 +79,13 @@
         "操作説明"
       ],
       "imageUrls": [
-        "https://tnish28.github.io/ematan_web/assets/guides/操作説明：自動再生モードを進める1.png",
-        "https://tnish28.github.io/ematan_web/assets/guides/操作説明：自動再生モードを進める2.png",
-        "https://tnish28.github.io/ematan_web/assets/guides/操作説明：自動再生モードを進める3.png",
-        "https://tnish28.github.io/ematan_web/assets/guides/操作説明：自動再生モードを進める4.png",
-        "https://tnish28.github.io/ematan_web/assets/guides/操作説明：自動再生モードを進める5.png",
-        "https://tnish28.github.io/ematan_web/assets/guides/操作説明：自動再生モードを進める6.png"
+        "https://tnish28.github.io/ematan_web/assets/guides/自動再生モードを進める_1.png",
+        "https://tnish28.github.io/ematan_web/assets/guides/自動再生モードを進める_2.png",
+        "https://tnish28.github.io/ematan_web/assets/guides/自動再生モードを進める_3.png",
+        "https://tnish28.github.io/ematan_web/assets/guides/自動再生モードを進める_4.png",
+        "https://tnish28.github.io/ematan_web/assets/guides/自動再生モードを進める_5.png",
+        "https://tnish28.github.io/ematan_web/assets/guides/自動再生モードを進める_6.png",
+        "https://tnish28.github.io/ematan_web/assets/guides/自動再生モードを進める_7.png"
       ],
       "order": 5,
       "isPublished": true
@@ -96,11 +98,11 @@
         "操作説明"
       ],
       "imageUrls": [
-        "https://tnish28.github.io/ematan_web/assets/guides/お気に入り1.png",
-        "https://tnish28.github.io/ematan_web/assets/guides/お気に入り2.png",
-        "https://tnish28.github.io/ematan_web/assets/guides/お気に入り3.png",
-        "https://tnish28.github.io/ematan_web/assets/guides/お気に入り4.png",
-        "https://tnish28.github.io/ematan_web/assets/guides/お気に入り5.png"
+        "https://tnish28.github.io/ematan_web/assets/guides/お気に入り_1.png",
+        "https://tnish28.github.io/ematan_web/assets/guides/お気に入り_2.png",
+        "https://tnish28.github.io/ematan_web/assets/guides/お気に入り_3.png",
+        "https://tnish28.github.io/ematan_web/assets/guides/お気に入り_4.png",
+        "https://tnish28.github.io/ematan_web/assets/guides/お気に入り_5.png"
       ],
       "order": 6,
       "isPublished": true
@@ -113,14 +115,14 @@
         "操作説明"
       ],
       "imageUrls": [
-        "https://tnish28.github.io/ematan_web/assets/guides/操作説明：プレイリスト1.png",
-        "https://tnish28.github.io/ematan_web/assets/guides/操作説明：プレイリスト2.png",
-        "https://tnish28.github.io/ematan_web/assets/guides/操作説明：プレイリスト3.png",
-        "https://tnish28.github.io/ematan_web/assets/guides/操作説明：プレイリスト4.png",
-        "https://tnish28.github.io/ematan_web/assets/guides/操作説明：プレイリスト5.png",
-        "https://tnish28.github.io/ematan_web/assets/guides/操作説明：プレイリスト6.png",
-        "https://tnish28.github.io/ematan_web/assets/guides/操作説明：プレイリスト7.png",
-        "https://tnish28.github.io/ematan_web/assets/guides/操作説明：プレイリスト8.png"
+        "https://tnish28.github.io/ematan_web/assets/guides/プレイリスト_1.png",
+        "https://tnish28.github.io/ematan_web/assets/guides/プレイリスト_2.png",
+        "https://tnish28.github.io/ematan_web/assets/guides/プレイリスト_3.png",
+        "https://tnish28.github.io/ematan_web/assets/guides/プレイリスト_4.png",
+        "https://tnish28.github.io/ematan_web/assets/guides/プレイリスト_5.png",
+        "https://tnish28.github.io/ematan_web/assets/guides/プレイリスト_6.png",
+        "https://tnish28.github.io/ematan_web/assets/guides/プレイリスト_7.png",
+        "https://tnish28.github.io/ematan_web/assets/guides/プレイリスト_8.png"
       ],
       "order": 7,
       "isPublished": true
