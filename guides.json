@@ -45,7 +45,8 @@
         "https://tnish28.github.io/ematan_web/assets/guides/学習セットを作成しスタートする_2.png",
         "https://tnish28.github.io/ematan_web/assets/guides/学習セットを作成しスタートする_3.png",
         "https://tnish28.github.io/ematan_web/assets/guides/学習セットを作成しスタートする_4.png",
-        "https://tnish28.github.io/ematan_web/assets/guides/学習セットを作成しスタートする_5.png"
+        "https://tnish28.github.io/ematan_web/assets/guides/学習セットを作成しスタートする_5.png",
+        "https://tnish28.github.io/ematan_web/assets/guides/学習セットを作成しスタートする_6.png"
       ],
       "order": 3,
       "isPublished": true
@@ -116,16 +117,35 @@
         "操作説明"
       ],
       "imageUrls": [
-        "https://tnish28.github.io/ematan_web/assets/guides/プレイリスト_1.png",
-        "https://tnish28.github.io/ematan_web/assets/guides/プレイリスト_2.png",
-        "https://tnish28.github.io/ematan_web/assets/guides/プレイリスト_3.png",
-        "https://tnish28.github.io/ematan_web/assets/guides/プレイリスト_4.png",
-        "https://tnish28.github.io/ematan_web/assets/guides/プレイリスト_5.png",
-        "https://tnish28.github.io/ematan_web/assets/guides/プレイリスト_6.png",
-        "https://tnish28.github.io/ematan_web/assets/guides/プレイリスト_7.png",
-        "https://tnish28.github.io/ematan_web/assets/guides/プレイリスト_8.png"
+        "https://tnish28.github.io/ematan_web/assets/guides/プレイリストを活用する_1.png",
+        "https://tnish28.github.io/ematan_web/assets/guides/プレイリストを活用する_2.png",
+        "https://tnish28.github.io/ematan_web/assets/guides/プレイリストを活用する_3.png",
+        "https://tnish28.github.io/ematan_web/assets/guides/プレイリストを活用する_4.png",
+        "https://tnish28.github.io/ematan_web/assets/guides/プレイリストを活用する_5.png",
+        "https://tnish28.github.io/ematan_web/assets/guides/プレイリストを活用する_6.png",
+        "https://tnish28.github.io/ematan_web/assets/guides/プレイリストを活用する_7.png",
+        "https://tnish28.github.io/ematan_web/assets/guides/プレイリストを活用する_8.png",
+        "https://tnish28.github.io/ematan_web/assets/guides/プレイリストを活用する_9.png"
       ],
       "order": 7,
+      "isPublished": true
+    },
+    {
+      "id": "guide-20260419082404520",
+      "title": "目標を設定する",
+      "description": "",
+      "tags": [
+        "実績・目標"
+      ],
+      "imageUrls": [
+        "https://tnish28.github.io/ematan_web/assets/guides/目標を設定する_1.png",
+        "https://tnish28.github.io/ematan_web/assets/guides/目標を設定する_2.png",
+        "https://tnish28.github.io/ematan_web/assets/guides/目標を設定する_3.png",
+        "https://tnish28.github.io/ematan_web/assets/guides/目標を設定する_4.png",
+        "https://tnish28.github.io/ematan_web/assets/guides/目標を設定する_5.png",
+        "https://tnish28.github.io/ematan_web/assets/guides/目標を設定する_6.png"
+      ],
+      "order": 8,
       "isPublished": true
     }
   ]
